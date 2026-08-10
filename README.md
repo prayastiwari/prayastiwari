@@ -6,7 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/prayastiwari?style=for-the-badge&logo=github&label=Follow)](https://github.com/prayastiwari)
 [![Profile views](https://komarev.com/ghpvc/?username=prayastiwari&style=for-the-badge&color=0e75b6)](https://github.com/prayastiwari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prayas%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prayastiwari/)
 
 </div>
 
