@@ -30,23 +30,23 @@ Integrations           Founder projects     Fast prototypes
 - I am comfortable moving between frontend, backend, data, infra, and product thinking.
 - I use AI as a building material, not just a feature.
 
-## Current interests
+## Current focus
 
-```mermaid
-flowchart LR
-  A[Idea] --> B[Prototype]
-  B --> C[Product]
-  C --> D[Automation]
-  D --> E[Data loop]
-  E --> F[Better product]
-  F --> C
-```
+I am usually building in a few lanes at once: serious AI products, fast founder experiments, and the infrastructure that keeps them alive.
+
+| Product / Track | What it is | What I am exploring |
+| --- | --- | --- |
+| **Infis AI** | Procurement AI for supplier intelligence, sourcing, tariff analysis, and operational workflows | Turning fragmented supplier, material, document, and risk data into decision systems teams can actually use |
+| **Kin Care** | Consumer healthcare AI for families managing care, records, bills, and follow-ups | Organizing health documents into a calm, administrative picture of care without crossing into clinical advice |
+| **Agent workflows** | AI systems that connect inboxes, documents, CRMs, APIs, and internal tools | Moving from chat demos to reliable agents that read, decide, ask, route, and wait for approval |
+| **Data infrastructure** | Pipelines for extraction, enrichment, classification, sync, and monitoring | Making messy real-world data observable, recoverable, and useful inside products |
+| **Product experiments** | Small apps, prototypes, and founder ideas | Finding sharp workflows where software can remove friction fast |
 
 ## Things I build
 
 | Theme | Examples |
 | --- | --- |
-| AI products | Agents, copilots, retrieval flows, workflow automation, reasoning tools |
+| AI products | Procurement AI, consumer healthcare AI, agents, copilots, retrieval flows, reasoning tools |
 | Full-stack apps | Dashboards, portals, landing pages, product surfaces, admin tools |
 | Data systems | Pipelines, enrichment, sync jobs, classification, monitoring |
 | Integrations | OAuth, webhooks, CRMs, email, documents, third-party APIs |
