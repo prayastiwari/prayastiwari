@@ -2,88 +2,93 @@
 
 # Prayas Tiwari
 
-### Building AI systems for procurement, supplier intelligence, and workflow automation.
+### Builder across AI, product, automation, data, and real-world operations.
 
-[![GitHub followers](https://img.shields.io/github/followers/prayastiwari?style=for-the-badge&logo=github&label=Follow)](https://github.com/prayastiwari)
-[![Profile views](https://komarev.com/ghpvc/?username=prayastiwari&style=for-the-badge&color=0e75b6)](https://github.com/prayastiwari)
+I turn rough ideas into shipped systems: web apps, agents, internal tools, data pipelines, automation workflows, and products that help people move faster.
 
 </div>
 
 ---
 
-I like turning messy, high-stakes business workflows into calm, useful software.
+## What I do
 
-Most of my work sits at the intersection of AI, data pipelines, enterprise automation, and supply-chain operations. I build systems that help teams collect better data, reason over complex supplier networks, monitor risk, automate follow-ups, and make decisions faster.
+I work across multiple kinds of products and problem spaces. Some days that means building polished user-facing apps. Other days it means wiring together APIs, background workers, data pipelines, AI workflows, dashboards, integrations, or tools that make an annoying manual process disappear.
+
+The common thread: I like software that does real work.
 
 ```txt
-AI systems        Procurement workflows        Supplier intelligence
-Data pipelines    Automation agents            Full-stack products
+Product engineering    AI workflows        Automation
+Data systems           Full-stack apps      Internal tools
+Integrations           Founder projects     Fast prototypes
 ```
 
-## What I am building
+## Builder mode
 
-- AI-native tools for supplier risk, sourcing, tariff analysis, and procurement operations.
-- Agent workflows that connect inboxes, documents, APIs, and internal business systems.
-- Data infrastructure for enrichment, classification, monitoring, and decision support.
-- Product experiences that make complex operational work feel simple and fast.
+- I enjoy going from blank page to working product.
+- I care about speed, taste, and practical usefulness.
+- I like systems that connect messy real-world inputs to clean user experiences.
+- I am comfortable moving between frontend, backend, data, infra, and product thinking.
+- I use AI as a building material, not just a feature.
 
-## How I think about software
+## Current interests
 
-- Start with the workflow, not the model.
-- Make the system explain itself.
-- Prefer useful automation over flashy demos.
-- Build fast, then make the important parts boring and reliable.
+```mermaid
+flowchart LR
+  A[Idea] --> B[Prototype]
+  B --> C[Product]
+  C --> D[Automation]
+  D --> E[Data loop]
+  E --> F[Better product]
+  F --> C
+```
 
-## Tools I reach for
+## Things I build
+
+| Theme | Examples |
+| --- | --- |
+| AI products | Agents, copilots, retrieval flows, workflow automation, reasoning tools |
+| Full-stack apps | Dashboards, portals, landing pages, product surfaces, admin tools |
+| Data systems | Pipelines, enrichment, sync jobs, classification, monitoring |
+| Integrations | OAuth, webhooks, CRMs, email, documents, third-party APIs |
+| Automation | Background workers, scheduled jobs, inbox flows, internal operations |
+| Experiments | Fast prototypes, founder ideas, small tools, weird useful things |
+
+## Stack I like
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,python,fastapi,flask,postgres,mongodb,supabase,firebase,gcp,docker,github,figma" alt="Tech stack icons" />
 </p>
 
-## Current focus
-
-```mermaid
-flowchart LR
-  A[Unstructured inputs] --> B[Extraction]
-  B --> C[Enrichment]
-  C --> D[Risk and tariff intelligence]
-  D --> E[Agent workflows]
-  E --> F[Operational decisions]
-```
-
-## Featured work themes
-
-| Area | What I build |
-| --- | --- |
-| AI procurement | Supplier intelligence, material classification, tariff analysis, and sourcing workflows |
-| Automation agents | Inbox-driven workflows, follow-up systems, document handling, and business process automation |
-| Data infrastructure | Enrichment pipelines, event processing, sync services, and production APIs |
-| Product engineering | Full-stack apps, dashboards, landing pages, and internal tools |
-
-## GitHub activity
+## Contribution graph, but bigger energy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prayastiwari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Prayas Tiwari GitHub stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prayastiwari/prayastiwari/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prayastiwari/prayastiwari/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/prayastiwari/prayastiwari/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br />
+<br />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prayastiwari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide=followers" alt="Prayas Tiwari GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayastiwari&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=prayastiwari&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prayastiwari&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
 
-## A little more
+## My bias
 
-I am happiest when I am close to both the product problem and the implementation details: talking to users, mapping the real workflow, designing the system shape, and then shipping the thing.
-
-If you are building in AI, procurement, supply chain, or enterprise automation, I am probably somewhere nearby with a half-finished diagram and a running server.
+Build the thing. Ship the first version. Learn from the surface area. Make it cleaner. Make it faster. Make it useful enough that someone actually wants it open in another tab.
 
 ---
 
 <div align="center">
 
-**Prayas Tiwari**  
-AI systems builder | Product engineer | Founder-minded operator
+**AI systems | Product engineering | Automation | Data | Founder projects**
 
 </div>
