@@ -72,11 +72,6 @@ flowchart LR
 <br />
 <br />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prayastiwari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide=followers" alt="Prayas Tiwari GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayastiwari&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-<br />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prayastiwari&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 
 </div>
